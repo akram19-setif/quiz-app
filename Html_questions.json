@@ -1,0 +1,65 @@
+[{
+  "title":"Why we use <br> element ?",
+  "answer_1":"To make Bold Text",
+  "answer_2":"To make Italic Text",
+  "answer_3":"To add Breakline",
+  "answer_4":"To add horizontal line",
+  "right_answer":"To add Breakline"
+},
+{
+  "title":"Is <img> Element has Attribute href",
+  "answer_1":"Yes",
+  "answer_2":"No Its for anchor Tag <a>",
+  "answer_3":"All Elements Has This Attribute",
+  "answer_4":"Answer 1 and 3 is Right",
+  "right_answer":"No Its for anchor Tag <a>"
+},
+{
+  "title":"How can we make element text Bold ",
+  "answer_1":"Putting it inside <b> tag",
+  "answer_2":"Putting it inside <strong> tag",
+  "answer_3":"Customizing it with front-wheigt property in CSS",
+  "answer_4":"All Answers is right",
+  "right_answer":"All Answers is right"
+},
+{
+  "title":"How can we include external page Inside our Html page ?",
+  "answer_1":"By using include in HTML",
+  "answer_2":"By using load in HTML",
+  "answer_3":"By using iFrame tag",
+  "answer_4":"All solutions are Wrong",
+  "right_answer":"By using iFrame tag"
+},
+{
+  "title":"What is the Tag that not exists in HTML?",
+  "answer_1":"<object>",
+  "answer_2":"<basefont>",
+  "answer_3":"<abbr>",
+  "answer_4":"All tags is exists in HTML",
+  "right_answer":"All tags is exists in HTML"
+},
+{
+  "title":"How we specify document type of HTML5 page?",
+  "answer_1":"<DOCTYPE html>",
+  "answer_2":"<DOCTYPE html5>",
+  "answer_3":"<!DOCTYPE html5>",
+  "answer_4":"<!DOCTYPE html>",
+  "right_answer":"<!DOCTYPE html>"
+},
+{
+  "title":"What is the Element thats not exists in HTML5 Semantics?",
+  "answer_1":"<article>",
+  "answer_2":"<section>",
+  "answer_3":"<blockquote>",
+  "answer_4":"<aside>",
+  "right_answer":"<blockquote>"
+},
+{
+  "title":"In HTML can we use this way to add Attributes?",
+  "answer_1":"<div class='class-name'>",
+  "answer_2":"<div class=class-name>",
+  "answer_3":"<div class=\"class-name\">",
+  "answer_4":"All are Right",
+  "right_answer":"All are Right"
+}
+]
